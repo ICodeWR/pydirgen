@@ -1,0 +1,15 @@
+{
+  "project_name": "myapp",
+  "structure": {
+    "src": {
+      "__init__.py": "",
+      "main.py": "#!/usr/bin/env python3\nprint('Hello World!')"
+    },
+    "tests": {
+      "__init__.py": "",
+      "test_main.py": "import unittest\n\nclass TestMain(unittest.TestCase):\n    pass"
+    },
+    "README.md": "# 我的应用\n\n这是一个示例项目。",
+    ".gitignore": "__pycache__/\n*.pyc"
+  }
+}

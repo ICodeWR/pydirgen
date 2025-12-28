@@ -1,0 +1,11 @@
+# 简单TOML配置示例
+project_name = "toml_project"
+
+# 目录结构
+[structure]
+src."__init__.py" = ""
+src."main.py" = "#!/usr/bin/env python3\nprint('Hello TOML!')"
+tests."__init__.py" = ""
+tests."test_basic.py" = "def test_example():\n    assert True"
+"README.md" = "# TOML项目\n\n使用TOML配置生成。"
+".gitignore" = "__pycache__/"
