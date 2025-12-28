@@ -1,6 +1,6 @@
 <div align="center">
   <img src="assets/logo.png" width=256></img>
-<p><strong>StudyFlow</strong>：编程学习日志</p>
+<p><strong>PyDirGen</strong>：超精简目录结构生成器</p>
 
 <!-- [English](README.en.md) | 简体中文 -->
 </div>
